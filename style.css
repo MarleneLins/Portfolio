@@ -1,1 +1,16 @@
+body{
+    background-color: aqua;
+}
 
+h1{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: yellow;
+}
+
+p{
+    color: red;
+    font-family: arial;
+    background: lightblue;
+    font-size: 20px;
+}
