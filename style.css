@@ -1,11 +1,11 @@
 body{
-    background-color: aqua;
+    background-color: rgba(0, 183, 255, 0.486);
 }
 
 h1{
-    color: blueviolet;
+    color: rgb(41, 10, 151);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background: yellow;
+    background: rgb(205, 230, 177);
 }
 
 p{
