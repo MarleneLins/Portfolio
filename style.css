@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(0, 183, 255, 0.486);
+    background-color: rgba(0, 183, 255, 0.184);
 }
 
 h1{
@@ -16,5 +16,6 @@ p{
 #atencao{
     color: rgb(19, 2, 2);
 font-family:impact;
-background:rgba(197, 18, 33, 0.555)
+background:rgba(197, 18, 33, 0.555);
+text-align: center;
 }
